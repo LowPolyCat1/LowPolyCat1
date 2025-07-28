@@ -48,5 +48,15 @@ Frontend prototype for a game store — mainly focused on UI layout and componen
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowpolycat1&show_icons=true&theme=tokyonight)
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lowpolycat1&show_icons=true&theme=tokyonight" 
+    style="height: 180px; width: auto;" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lowpolycat1&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" 
+    style="height: 180px; width: auto;" 
+    alt="Languages Graph" 
+  />
+</div>
