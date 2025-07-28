@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hello, World!
 
-<!--
-**LowPolyCat1/LowPolyCat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young developer and computer science student from **Germany**, focused on systems, tooling, and building things in **Rust** that are fast, minimal, and to the point. I like experimenting with ideas through code rather than theory.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects
+
+### 🖼️ [image-ascii-rs](https://github.com/LowPolyCat1/image-ascii-rs)
+Convert images into ASCII with character ramp customization and performance in mind.
+
+### 📊 [sorting-algorithm-visualization-rs](https://github.com/LowPolyCat1/sorting-algorithm-visualization-rs)
+Visualization of sorting algorithms in Rust using `minifb`. Focuses on clarity and simplicity.
+
+### 📉 [machine-learning-visualization-rs](https://github.com/LowPolyCat1/machine-learning-visualization-rs)
+Basic visual exploration of ML concepts like linear regression, loss functions, and optimizers — all rendered live.
+
+### 🧑‍💼 [IAM](https://github.com/LowPolyCat1/IAM)
+Identity and access management system built in Rust, using selected crates to handle auth, storage, and web handling.
+
+### 🛍️ [gameshop](https://github.com/LowPolyCat1/gameshop)
+Frontend prototype for a game store — mainly focused on UI layout and component structure.
+
+---
+
+## 🛠️ Tools & Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serde-%23cb3c30?style=for-the-badge&logo=databricks&logoColor=white" alt="Serde" />
+  <img src="https://img.shields.io/badge/Tokio-5c4ee5?style=for-the-badge&logo=Tokio&logoColor=white" alt="Tokio" />
+  <img src="https://img.shields.io/badge/Actix%20Web-5b89c8?style=for-the-badge&logo=Actix&logoColor=white" alt="Actix Web" />
+  <img src="https://img.shields.io/badge/minifb-grey?style=for-the-badge" alt="minifb" />
+</p>
+
+---
+
+## 🚧 What I'm Doing
+
+- Based in Germany  
+- Studying computer science  
+- Iterating on useful CLI/GUI hybrids  
+- Keeping complexity low and dependencies tight  
+- Writing code to actually understand concepts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowpolycat1&show_icons=true&theme=tokyonight)
