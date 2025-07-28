@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm a young developer and computer science student from **Germany**, focused on systems, tooling, and building things in **Rust** that are fast, minimal, and to the point. I like experimenting with ideas through code — not theory.
+I'm a young developer and computer science student from **Germany**, focused on systems, tooling, and building things in **Rust** that are fast, minimal, and to the point. I like experimenting with ideas through code rather than theory.
 
 ---
 
@@ -13,13 +13,13 @@ Convert images into ASCII with character ramp customization and performance in m
 Visualization of sorting algorithms in Rust using `minifb`. Focuses on clarity and simplicity.
 
 ### 📉 [machine-learning-visualization-rs](https://github.com/LowPolyCat1/machine-learning-visualization-rs)
-Basic visual exploration of ML concepts like linear regression, loss functions, and optimizers — all rendered live.
+Basic visual exploration of ML concepts like linear regression, loss functions, and optimizers, all rendered live.
 
 ### 🧑‍💼 [IAM](https://github.com/LowPolyCat1/IAM)
 Identity and access management system built in Rust, using selected crates to handle auth, storage, and web handling.
 
 ### 🛍️ [gameshop](https://github.com/LowPolyCat1/gameshop)
-Frontend prototype for a game store — mainly focused on UI layout and component structure.
+Frontend prototype for a game store, mainly focused on UI layout and component structure.
 
 ---
 
