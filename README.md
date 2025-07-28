@@ -1,6 +1,6 @@
-# 👋 Hello, World!
+# 👋 Hey
 
-I'm a young developer and computer science student from **Germany**, focused on systems, tooling, and building things in **Rust** that are fast, minimal, and to the point. I like experimenting with ideas through code rather than theory.
+I'm a young developer and computer science student from **Germany**, focused on systems, tooling, and building things in **Rust** that are fast, minimal, and to the point. I like experimenting with ideas through code — not theory.
 
 ---
 
@@ -31,6 +31,8 @@ Frontend prototype for a game store — mainly focused on UI layout and componen
   <img src="https://img.shields.io/badge/Tokio-5c4ee5?style=for-the-badge&logo=Tokio&logoColor=white" alt="Tokio" />
   <img src="https://img.shields.io/badge/Actix%20Web-5b89c8?style=for-the-badge&logo=Actix&logoColor=white" alt="Actix Web" />
   <img src="https://img.shields.io/badge/minifb-grey?style=for-the-badge" alt="minifb" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/shuttle--rs-623CE4?style=for-the-badge&logo=rocket&logoColor=white" alt="shuttle-rs" />
 </p>
 
 ---
