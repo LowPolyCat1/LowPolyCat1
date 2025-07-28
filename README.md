@@ -1,4 +1,4 @@
-# 👋 Hey
+# 👋 Hello, World!
 
 I'm a young developer and computer science student from **Germany**, focused on systems, tooling, and building things in **Rust** that are fast, minimal, and to the point. I like experimenting with ideas through code — not theory.
 
